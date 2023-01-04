@@ -21,7 +21,7 @@
   ## Description 📜
    Just a super basic calculator built using JS. It uses an array with eval to collect the values, calculate and display them
 
-![application screenshot](/public/Calculator%20Screen%20Shot.png)
+![screenshot](/public/Calculator%20Screen%20Shot.png)
 
 
 
